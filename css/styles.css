@@ -60,7 +60,7 @@ a {
 
 img {
     width: 100%;
-    }
+}
 
 .image {
     padding: 40px 40px 20px;
@@ -95,8 +95,7 @@ h3 {
     text-align: center;
 }
 
-main p, 
-.contact {
+main p, .contact {
     text-align: center;
     padding-bottom: 25px
 }
@@ -146,7 +145,7 @@ footer {
 
 .foot-li {
     display: none;
-    }
+}
 
 /* MEDIA QUERIES 768px */
 @media (min-width: 768px) {
@@ -225,6 +224,7 @@ footer {
     .foot-li {
         display: inline-block;
     }
+}
 
 
 /* MEDIA QUERIES 1024PX */
